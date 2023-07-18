@@ -1,6 +1,6 @@
 # FT Night Radian LED Controller
 
-# This repo is now deprecated
+# This repo is now deprecated. New repo [here](https://github.com/wingnut-tech/LEDControllerV2)
 With the release of our v2 board and the complete overhaul of the code (which supports both v1 and v2 boards), there wasn't a good way to update either this firmware repo or the updater app without everything breaking.
 
 So both this repo and the original updater app repo will stay as-is and be archived, with the new code going live in a [new repo](https://github.com/wingnut-tech/LEDControllerV2). Follow the instructions there to update your board to the new v2 firmware.
